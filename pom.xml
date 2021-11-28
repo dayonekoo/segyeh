@@ -1,0 +1,24 @@
+<project>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.segyeh.app</groupId>
+    <artifactId>segyeh</artifactId>
+    <packaging>pom</packaging>
+    <version>1</version>
+    <modules>
+        <module>biz</module>
+        <module>data</module>
+        <module>db</module>
+        <module>events</module>
+        <module>service</module>
+    </modules>
+
+    <properties>
+        <org.springframework.version>5.2.8.RELEASE</org.springframework.version>
+    </properties>
+
+    <dependencies>
+
+    </dependencies>
+
+</project>
